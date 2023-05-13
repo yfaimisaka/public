@@ -5,9 +5,30 @@
     <description>Recent content on AIMI BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 13 May 2023 20:32:34 +0800</lastBuildDate>
     
         <atom:link href="https://blog.aimisaka.site/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Helloworld</title>
+      <link>https://blog.aimisaka.site/post/helloworld/</link>
+      <pubDate>Sat, 13 May 2023 20:32:34 +0800</pubDate>
+      
+      <guid>https://blog.aimisaka.site/post/helloworld/</guid>
+      <description>&lt;p&gt;重建我的博客了 :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://blog.aimisaka.site/about/</link>
+      <pubDate>Sat, 13 May 2023 20:27:36 +0800</pubDate>
+      
+      <guid>https://blog.aimisaka.site/about/</guid>
+      <description>&lt;p&gt;PGP: B08D 2732 5198 6273 33DE 90C4 B86C 2C2C 510A 0DEA&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
